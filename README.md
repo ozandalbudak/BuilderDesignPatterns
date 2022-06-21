@@ -6,6 +6,9 @@ Builder Design Pattern Creational Patterns gurubu içerisinde yer alır.
 Nesne üretecek istemci, üretilecek nesnenin tipini belirleyerek nesneyi elde eder. 
 
 Nesne üretimi ile ilgilenmez. 
+
+![image](https://user-images.githubusercontent.com/16747625/174771382-1ae3040c-2d93-494e-89a5-7591d20e4a8c.png)
+
 Director 
 Builder arayüzünü uygulayarak nesne örneklemesi yapan yapı. 
 Builder
