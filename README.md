@@ -1,8 +1,10 @@
-Builder Design Pattern 
-Builder Design Pattern Creational Patterns gurubu içerisinde yer alır. Üretimi bir çok 
-parçadan oluşmuş, çok parçalı karmaşık nesnelerin parçalarının adım adım bir araya getirilerek 
-oluşturulmasını sağlayan bir tasarım desenidir. 
+Builder Design Pattern
+
+Builder Design Pattern Creational Patterns gurubu içerisinde yer alır.
+Üretimi bir çok parçadan oluşmuş, çok parçalı karmaşık nesnelerin parçalarının adım adım bir araya getirilerek oluşturulmasını sağlayan bir tasarım desenidir.
+
 Nesne üretecek istemci, üretilecek nesnenin tipini belirleyerek nesneyi elde eder. 
+
 Nesne üretimi ile ilgilenmez. 
 Director 
 Builder arayüzünü uygulayarak nesne örneklemesi yapan yapı. 
